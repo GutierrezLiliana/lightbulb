@@ -26,8 +26,14 @@ body {
 	background-color: #7f1ae5;
 }
 
+.blue{
+	background-color: #0000FF;
+}
 .off_white {content:url(off_w.png);}
 .on_white {content:url(on_w.png);}
 
 .off_purple {content:url(off_p.png);}
 .on_purple {content:url(on_p.png);}
+
+.off_blue {content:url(off_b.png);}
+.on_blue {content:url(on_b.png);}
