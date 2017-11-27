@@ -10,12 +10,12 @@ body {
 	flex-wrap: wrap;
 }
 
-.half-column {
+.third-column {
 	display: flex;
 	align-items: center;
 	justify-content: center;
 	height: 100vh;
-	width: calc(vw/3);
+	width: calc(100vw/3);
 }
 
 .white{
