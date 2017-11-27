@@ -19,5 +19,6 @@ function uv(elem){
 }
 
 function blue(){
-
+	elem.classList.toggle("on_blue");
+	document.getElementById("blue-background").classList.toggle("blue");
 }
