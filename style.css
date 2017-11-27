@@ -27,7 +27,7 @@ body {
 }
 
 .blue{
-	background-color: #0000FF;
+	background-color: blue;
 }
 .off_white {content:url(off_w.png);}
 .on_white {content:url(on_w.png);}
