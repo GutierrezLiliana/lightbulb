@@ -18,7 +18,7 @@ function uv(elem){
 	document.getElementById("purple-background").classList.toggle("purple");
 }
 
-function blue(){
+function blue(elem){
 	elem.classList.toggle("on_blue");
 	document.getElementById("blue-background").classList.toggle("blue");
 }
